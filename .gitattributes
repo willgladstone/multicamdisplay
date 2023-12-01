@@ -1,0 +1,10 @@
+*.exe binary
+*.dll binary
+*.ico binary
+
+* text=auto
+* text eol=crlf
+*.txt eol=lf
+*.md eol=lf
+*.config eol=crlf
+*.ahk eol=crlf
