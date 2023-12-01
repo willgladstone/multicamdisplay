@@ -1,4 +1,0 @@
-[submodule "tCamView"]
-	path = tCamView
-	url = https://github.com/augamvio/tCamView.git
-	branch = main
